@@ -1,0 +1,1 @@
+# KiCad-STM32minsys
