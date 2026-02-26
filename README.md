@@ -6,7 +6,13 @@
 
 make sure your repository contains the complete KiCad project files along with the 3D PCB visualization.
 
----
+### make a stm32 minimum system using STM32G030Kxt ic package LQFP32
+it must have 
+- RESET
+- CAN BE PROGRAM
+- EXTERNAL RESONATOR
+
+make as small as possible
 
 ##  Project Directory
 
